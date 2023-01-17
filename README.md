@@ -34,3 +34,9 @@ Com o comando md5sum /endereço do disco o hash foi recalculado.
 Como foi possível determinar o hash do disco foi modificado devido a ferramenta EnCase Acquisition não bloquear a escrita do dico via adaptador usb sata 3.0. 
 
 Como segundo experimento, o mesmo teste será corrido com um pen-drive de 4GB. 
+
+MD5 hash com FTK imager :    2b928fbed619e4d7cf106cd320907ea0 
+
+MD5 hash com Guymager   :    2b928fbed619e4d7cf106cd320907ea0 
+
+Então é possível determinar que no uso de um pen-drive o disco não foi modificado em ambas as ferramentas. 
